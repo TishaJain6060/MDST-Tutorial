@@ -1,2 +1,8 @@
-Hello, my name is Tisha and I am a freshman in the College of Engineering.
-Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+Introduction:
+
+Hello, my name is Tisha and I am a freshman in the College of Engineering. I am a member of the Michigan Research and Discovery Scholars (MRADS) living-learning community.
+
+I am planning to major in Computer science, with a concentration in AL and Machine Learning, and a minor in Statistics.
+
+A fun fact about me is that I can move my ears! It seems that only 10-15% of the world's population posses this trait.
+As you can see, I love numbers :)
